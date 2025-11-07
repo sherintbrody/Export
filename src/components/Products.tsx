@@ -90,7 +90,7 @@ export function Products() {
         {
           icon: <MapPin size={18} />,
           label: 'Origin',
-          value: 'Maharashtra & Kerala, India'
+          value: 'Karnataka & Kerala, India'
         }
       ]
     },
